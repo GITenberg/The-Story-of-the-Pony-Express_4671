@@ -1,0 +1,26 @@
+_repo: The-Story-of-the-Pony-Express_4671
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bradley, Glenn D. (Glenn Danford)
+    alias: Bradley, Glenn Danford
+    birthdate: 1884
+    deathdate: 1930
+    gutenberg_agent_id: '1540'
+    url: http://www.gutenberg.org/2009/agents/1540
+description: Includes the trips, the riders, and the overland mail routes.
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pony express'
+- !lcc 'HE'
+- GITenberg
+title: The Story of the Pony Express
+url: http://www.gutenberg.org/ebooks/4671
